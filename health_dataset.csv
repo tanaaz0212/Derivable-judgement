@@ -1,0 +1,51 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,diabetes,hypertension,cholesterol_level,glucose_level,visit_date
+1,18-25,22,55,Male,North,Non-Smoker,Daily,21.5,118,FALSE,FALSE,170,90,10/1/2024
+2,26-35,30,70,Female,South,Smoker,Weekly,25.2,130,TRUE,TRUE,210,140,12/1/2024
+3,36-45,40,80,Male,East,Former Smoker,Rarely,27.8,140,TRUE,TRUE,220,150,15/01/2024
+4,46-60,50,85,Female,West,Non-Smoker,Never,29.5,150,TRUE,TRUE,240,160,18/01/2024
+5,60+,65,75,Male,North,Smoker,Rarely,26,135,TRUE,TRUE,230,145,20/01/2024
+6,18-25,24,60,Female,East,Non-Smoker,Daily,22,115,FALSE,FALSE,180,95,22/01/2024
+7,26-35,28,68,Male,West,Smoker,Weekly,24.5,128,FALSE,TRUE,200,110,25/01/2024
+8,36-45,38,78,Female,South,Former Smoker,Rarely,27,138,TRUE,TRUE,215,135,28/01/2024
+9,46-60,52,82,Male,North,Smoker,Rarely,28.5,145,TRUE,TRUE,235,150,30/01/2024
+10,60+,70,77,Female,West,Non-Smoker,Never,26.5,142,TRUE,TRUE,225,140,1/2/2024
+11,18-25,23,58,Male,South,Non-Smoker,Daily,22.1,117,FALSE,FALSE,175,92,3/2/2024
+12,26-35,32,72,Female,East,Smoker,Weekly,25.8,132,TRUE,TRUE,212,138,5/2/2024
+13,36-45,42,82,Male,West,Former Smoker,Rarely,28.2,142,TRUE,TRUE,222,148,7/2/2024
+14,46-60,55,88,Female,North,Non-Smoker,Never,30.1,152,TRUE,TRUE,245,162,9/2/2024
+15,60+,68,74,Male,South,Smoker,Rarely,26.3,136,TRUE,TRUE,232,147,11/2/2024
+16,18-25,21,54,Female,West,Non-Smoker,Daily,21,112,FALSE,FALSE,168,88,13/02/2024
+17,26-35,29,69,Male,North,Smoker,Weekly,24.8,129,FALSE,TRUE,198,112,15/02/2024
+18,36-45,37,77,Female,East,Former Smoker,Rarely,26.9,137,TRUE,TRUE,214,133,17/02/2024
+19,46-60,53,83,Male,South,Smoker,Rarely,28.7,146,TRUE,TRUE,236,152,19/02/2024
+20,60+,72,79,Female,North,Non-Smoker,Never,26.8,143,TRUE,TRUE,228,142,21/02/2024
+21,18-25,25,61,Male,East,Non-Smoker,Daily,22.5,116,FALSE,FALSE,178,93,23/02/2024
+22,26-35,31,73,Female,West,Smoker,Weekly,25.9,131,TRUE,TRUE,213,139,25/02/2024
+23,36-45,44,84,Male,North,Former Smoker,Rarely,28.5,141,TRUE,TRUE,224,149,27/02/2024
+24,46-60,57,90,Female,South,Non-Smoker,Never,30.5,153,TRUE,TRUE,248,165,29/02/2024
+25,60+,66,76,Male,East,Smoker,Rarely,26.4,137,TRUE,TRUE,233,146,2/3/2024
+26,18-25,22,57,Female,North,Non-Smoker,Daily,21.7,114,FALSE,FALSE,172,91,4/3/2024
+27,26-35,34,75,Male,South,Smoker,Weekly,26.1,133,TRUE,TRUE,215,141,6/3/2024
+28,36-45,39,79,Female,West,Former Smoker,Rarely,27.3,139,TRUE,TRUE,217,136,8/3/2024
+29,46-60,51,86,Male,East,Smoker,Rarely,29,147,TRUE,TRUE,238,151,10/3/2024
+30,60+,69,78,Female,South,Non-Smoker,Never,26.6,144,TRUE,TRUE,227,141,12/3/2024
+31,18-25,23,59,Male,West,Non-Smoker,Daily,22.3,118,FALSE,FALSE,176,94,14/03/2024
+32,26-35,33,71,Female,North,Smoker,Weekly,25.5,130,TRUE,TRUE,211,137,16/03/2024
+33,36-45,41,83,Male,South,Former Smoker,Rarely,28,140,TRUE,TRUE,221,147,18/03/2024
+34,46-60,54,87,Female,East,Non-Smoker,Never,29.8,151,TRUE,TRUE,242,163,20/03/2024
+35,60+,67,74,Male,West,Smoker,Rarely,26.2,135,TRUE,TRUE,231,145,22/03/2024
+36,18-25,24,62,Female,South,Non-Smoker,Daily,22.4,113,FALSE,FALSE,179,96,24/03/2024
+37,26-35,27,67,Male,East,Smoker,Weekly,24.3,127,FALSE,TRUE,199,109,26/03/2024
+38,36-45,36,76,Female,North,Former Smoker,Rarely,26.8,136,TRUE,TRUE,213,132,28/03/2024
+39,46-60,58,84,Male,West,Smoker,Rarely,28.9,148,TRUE,TRUE,239,153,30/03/2024
+40,60+,71,80,Female,East,Non-Smoker,Never,27,145,TRUE,TRUE,229,143,1/4/2024
+41,18-25,20,53,Male,North,Non-Smoker,Daily,20.9,110,FALSE,FALSE,165,87,3/4/2024
+42,26-35,35,76,Female,South,Smoker,Weekly,26.3,134,TRUE,TRUE,218,142,5/4/2024
+43,36-45,43,85,Male,East,Former Smoker,Rarely,28.6,143,TRUE,TRUE,226,150,7/4/2024
+44,46-60,56,89,Female,West,Non-Smoker,Never,30.2,154,TRUE,TRUE,247,164,9/4/2024
+45,60+,73,81,Male,South,Smoker,Rarely,27.1,146,TRUE,TRUE,234,148,11/4/2024
+46,18-25,22,56,Female,East,Non-Smoker,Daily,21.6,115,FALSE,FALSE,173,90,13/04/2024
+47,26-35,28,68,Male,North,Smoker,Weekly,24.7,128,FALSE,TRUE,202,111,15/04/2024
+48,36-45,45,86,Female,South,Former Smoker,Rarely,28.9,144,TRUE,TRUE,230,152,17/04/2024
+49,46-60,59,91,Male,West,Smoker,Rarely,30.4,155,TRUE,TRUE,249,166,19/04/2024
+50,60+,74,82,Female,North,Non-Smoker,Never,27.3,147,TRUE,TRUE,231,144,21/04/2024
